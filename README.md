@@ -7,7 +7,7 @@ I thought I should upload it on github so that it does not get lost.
 
 **Note** -  I am writing here the exact same description which I wrote in my project report back in 2016.
 
-![Image of Layout](./images/layout.jpg?raw=true)
+<div align="center"><img src="./images/layout.jpg"></div>
 
 We have made a **‘Quiz Game’** on **C++** for our CS project. It has the following described Menus and their respective function (work) is also described.
 1. **INTRODUCTION** - We can enter **‘Main menu’** OR **‘About’** from here.
@@ -32,37 +32,37 @@ Once you are in, you can enter **‘Search/Edit Profile’** OR **‘Enter New Q
 ## Output Screens
 
 * Instructions
-![Image of Instructions](./images/1.png?raw=true)
+<div align="center"><img src="./images/1.png"></div>
 * Introduction
-![Image of Introduction](./images/2.png?raw=true)
+<div align="center"><img src="./images/2.png"></div>
 * About Us
-![Image of About Us](./images/3.png?raw=true)
+<div align="center"><img src="./images/3.png"></div>
 * Main Menu
-![Image of Main Menu](./images/4.png?raw=true)
+<div align="center"><img src="./images/4.png"></div>
 * New Game
-![Image of New Game](./images/5.png?raw=true)
+<div align="center"><img src="./images/5.png"></div>
 * Create Profile
-![Image of Create Profile](./images/6.png?raw=true)
+<div align="center"><img src="./images/6.png"></div>
 * Quiz Window
-![Image of Quiz Window](./images/7.png?raw=true)
+<div align="center"><img src="./images/7.png"></div>
 * Load Profile
-![Image of Load Profile](./images/8.png?raw=true)
+<div align="center"><img src="./images/8.png"></div>
 * Password Entry Window (Wrong Password)
-![Image of Password Entry Window (Wrong Password)](./images/9.png?raw=true)
+<div align="center"><img src="./images/9.png"></div>
 * Password Entry Window (Correct Password)
-![Image of Password Entry Window (Correct Password)](./images/10.png?raw=true)
+<div align="center"><img src="./images/10.png"></div>
 * Developer's Section
-![Image of Developer's Section](./images/11.png?raw=true)
+<div align="center"><img src="./images/11.png"></div>
 * Edit/Delete Profile
-![Image of Edit/Delete Profile](./images/12.png?raw=true)
+<div align="center"><img src="./images/12.png"></div>
 * Delete Profile
-![Image of Delete Profile](./images/13.png?raw=true)
+<div align="center"><img src="./images/13.png"></div>
 * Edit Profile
-![Image of Edit Profile](./images/14.png?raw=true)
+<div align="center"><img src="./images/14.png"></div>
 * Question Entry
-![Image of Question Entry](./images/15.png?raw=true)
+<div align="center"><img src="./images/15.png"></div>
 * Profile Gallary
-![Image of Profile Gallary](./images/16.png?raw=true)
+<div align="center"><img src="./images/16.png"></div>
 
 ## How to Run
 * Use **TurboC++** (Lol xD).
